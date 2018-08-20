@@ -1,4 +1,4 @@
-package com.structural.adapter;
+package com.structural.adapter.object;
 
 public class TestClass {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.structural.adapter;
+package com.structural.adapter.object;
 
 public interface TargetInterface {
 	
