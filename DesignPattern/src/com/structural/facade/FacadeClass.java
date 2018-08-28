@@ -1,12 +1,12 @@
-package com.facade;
+package com.structural.facade;
 
 public class FacadeClass {
 	SamsungMobile sm;
-	Apple a;
+	AppleMobile a;
 	
 	FacadeClass() {
 		sm=new SamsungMobile();
-		a=new Apple();
+		a=new AppleMobile();
 	}
 	
 	void samung() {

@@ -1,6 +1,6 @@
-package com.facade;
+package com.structural.facade;
 
-public class Apple implements Mobile{
+public class AppleMobile implements Mobile{
 
 	@Override
 	public void brand() {

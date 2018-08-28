@@ -1,4 +1,4 @@
-package com.facade;
+package com.structural.facade;
 
 public class SamsungMobile implements Mobile{
 
